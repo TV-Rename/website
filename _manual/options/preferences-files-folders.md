@@ -20,7 +20,7 @@ _Other Extensions:_ follows the same rules as _Video Extensions_ but the file ex
 | _**.srt**_ | Subtitles in text format.|
 | _**.nfo**_ | An XML style file that contains information about the video, such as a title, summary, list of actors, year of production etc. This information is often used by media players to provide a more immersive viewing experience.|
 | _**.txt**_ | Text files can be any text but quite often, if the base name of the text file is the same as that of the video file, they contain subtitles in text format. |
-| _**.tbn**_ | A KODI/XBMC specific jpeg. 
+| _**.tbn**_ | A KODI/XBMC specific jpeg. |
 
 This second list deals with files you'd like to copy/move when TV&nbsp;Rename finds a missing episode in the search folders. The extensions may be different from those used in the library list because (for example) you may not want .nfo files not to be copied from the search folders because TV&nbsp;Rename creates them but once created then you'll want them to be renamed with the source file(s).
 
